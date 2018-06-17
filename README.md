@@ -1,2 +1,2 @@
 # mercarikaggle
-## exploration of mercari price data from kaggle
+exploration of mercari price data from kaggle
